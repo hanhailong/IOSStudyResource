@@ -23,3 +23,7 @@ IOS学习资源整理，不定期的更新
 #进度条
 1.https://github.com/kentya6/KYCircularProgress 简单、实用路径可定进程条
 
+#测试框架
+1.https://github.com/Quick/Quick 行为驱动测试框架
+2.https://github.com/Quick/Nimble 匹配断言测试框架
+

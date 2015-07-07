@@ -27,3 +27,10 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/Quick/Quick 行为驱动测试框架
 2.https://github.com/Quick/Nimble 匹配断言测试框架
 
+#手势密码解锁（九宫格）
+1.https://github.com/iosdeveloperpanc/PCGestureUnlock 目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发
+2.https://github.com/nsdictionary/CoreLock 高仿支付宝解锁
+
+#和Android中TabLayout、PageTab相似的PagesView控件
+1.https://github.com/nsdictionary/CorePagesView
+

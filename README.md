@@ -34,3 +34,5 @@ IOS学习资源整理，不定期的更新
 #和Android中TabLayout、PageTab相似的PagesView控件
 1.https://github.com/nsdictionary/CorePagesView
 
+#图片选择器（支持多选）
+1.https://github.com/questbeat/QBImagePicker QBImagePickerController 扩展了 UIImagePickerController 类用于支持图像的多选操作 \n

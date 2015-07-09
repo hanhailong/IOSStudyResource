@@ -40,3 +40,8 @@ IOS学习资源整理，不定期的更新
 #带placeholder的UITextView
 1.https://github.com/gcamp/GCPlaceholderTextView
 2.https://github.com/lukagabric/LPlaceholderTextView 
+
+#IOS视频播放器
+1.https://github.com/iMoreApps/ffmpeg-avplayer-for-ios 支持多种视频编码
+2.https://github.com/Bilibili/ijkplayer 非常强大的视频解码库，根据fmpeg封装，支持IOS和Android，Bilibili出品
+

@@ -45,3 +45,6 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/iMoreApps/ffmpeg-avplayer-for-ios 支持多种视频编码
 2.https://github.com/Bilibili/ijkplayer 非常强大的视频解码库，根据fmpeg封装，支持IOS和Android，Bilibili出品
 
+#IOS在线音频播放器
+1.https://github.com/muhku/FreeStreamer FreeStreamer是适用于iOS和OS X的音频播放引擎, 专门为播放音频流而设计。该引擎示范UI简单，效率高，占用内存少，用C++写成
+

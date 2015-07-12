@@ -3,6 +3,7 @@ IOS学习资源整理，不定期的更新
 
 #完整的IOS项目，具有很大的教学意义
 1.https://github.com/JakeLin/SwiftWeather  一天swift版本的天气项目
+2.https://github.com/xushao1990/XTNews  仿网易新闻的app，里面介绍了一些比较好的库
 
 
 #IOS第三库依赖管理，类似Java中的maven，Android中的Gradle

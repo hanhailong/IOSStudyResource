@@ -10,6 +10,9 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#十分强大的类似ScrollView的类！提供重用视图及多种3D切换方式
+1.https://github.com/nicklockwood/iCarousel
+
 #瀑布流
 1.https://github.com/ptshih/PSCollectionView
 

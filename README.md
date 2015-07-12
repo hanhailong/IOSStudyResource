@@ -10,6 +10,9 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#瀑布流
+1.https://github.com/ptshih/PSCollectionView
+
 #Json解析
 1.https://github.com/SwiftyJSON/SwiftyJSON   swift版本
 

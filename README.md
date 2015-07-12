@@ -1,6 +1,11 @@
 # IOSStudyResource
 IOS学习资源整理，不定期的更新
 
+
+#IOS第三库依赖管理，类似Java中的maven，Android中的Gradle
+1.https://github.com/CocoaPods/CocoaPods
+2.https://github.com/Carthage/Carthage 
+
 #Json解析
 1.https://github.com/SwiftyJSON/SwiftyJSON   swift版本
 

@@ -10,6 +10,9 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#不错的动画效果库
+1.https://github.com/ArtFeel/AFViewShaker  左右震动
+
 #十分强大的类似ScrollView的类！提供重用视图及多种3D切换方式
 1.https://github.com/nicklockwood/iCarousel
 

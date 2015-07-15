@@ -11,6 +11,9 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#IOS非常漂亮的做引导页滚动视图
+1.https://github.com/IFTTT/JazzHands  
+
 #IOS中不错的菜单
 1.https://github.com/12207480/DOPDropDownMenu-Enhanced  高仿美团下拉菜单-优化版
 

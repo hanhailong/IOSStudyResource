@@ -4,17 +4,24 @@ IOS学习资源整理，不定期的更新
 #完整的IOS项目，具有很大的教学意义
 1.https://github.com/JakeLin/SwiftWeather  一天swift版本的天气项目
 2.https://github.com/xushao1990/XTNews  仿网易新闻的app，里面介绍了一些比较好的库
+3.https://github.com/12207480/KnowingLife  基于天气，查询，团购，新闻类查询应用
 
 
 #IOS第三库依赖管理，类似Java中的maven，Android中的Gradle
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#IOS中不错的菜单
+1.https://github.com/12207480/DOPDropDownMenu-Enhanced  高仿美团下拉菜单-优化版
+
 #不错的动画效果库
 1.https://github.com/ArtFeel/AFViewShaker  左右震动
+2.https://github.com/12207480/TYWaterWaveView 水波纹效果
+
 
 #十分强大的类似ScrollView的类！提供重用视图及多种3D切换方式
 1.https://github.com/nicklockwood/iCarousel
+2.https://github.com/12207480/TYHorizenTableView 水平方向的UITableView
 
 #瀑布流
 1.https://github.com/ptshih/PSCollectionView

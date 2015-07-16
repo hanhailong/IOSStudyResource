@@ -49,6 +49,7 @@ IOS学习资源整理，不定期的更新
 
 #图片处理
 1.https://github.com/kaishin/gifu  高性能GIF显示类库
+2.https://github.com/Nyx0uf/NYXImagesKit  图片过滤等N种效果集合
 
 #自动布局框架
 1.https://github.com/robb/Cartography 基于代码级的自动布局封装框架

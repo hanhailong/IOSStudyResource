@@ -6,6 +6,11 @@ IOS学习资源整理，不定期的更新
 2.https://github.com/xushao1990/XTNews  仿网易新闻的app，里面介绍了一些比较好的库
 3.https://github.com/12207480/KnowingLife  基于天气，查询，团购，新闻类查询应用
 
+#Xcode中不错的插件
+1.https://github.com/limejelly/Backlight-for-XCode  高亮当前正在编辑的一行
+2.https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin 强大的模糊匹配输入 让你写代码的时候再也不用费脑子去记住名字那么长的对象或者函数名了 好用到让你想哭
+3.
+
 
 #IOS第三库依赖管理，类似Java中的maven，Android中的Gradle
 1.https://github.com/CocoaPods/CocoaPods

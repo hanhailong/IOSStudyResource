@@ -16,6 +16,9 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#UITableViewCell支持滑动显示更多操作按钮的
+1.https://github.com/JonasGessner/JGScrollableTableViewCell
+
 #IOS非常漂亮的做引导页滚动视图
 1.https://github.com/IFTTT/JazzHands  
 
@@ -81,4 +84,14 @@ IOS学习资源整理，不定期的更新
 
 #IOS在线音频播放器
 1.https://github.com/muhku/FreeStreamer FreeStreamer是适用于iOS和OS X的音频播放引擎, 专门为播放音频流而设计。该引擎示范UI简单，效率高，占用内存少，用C++写成
+
+#强大的日志log框架
+1.https://github.com/CocoaLumberjack/CocoaLumberjack
+
+#聊天页面UI
+1.https://github.com/jessesquires/JSQMessagesViewController
+
+#自定义显示消息和通知的框架
+1.https://github.com/KrauseFx/TSMessages  在屏幕顶部
+
 

@@ -16,6 +16,9 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#非常不错的一个库，显示控件的PlaceHolder或者是UIView的大小
+1.https://github.com/adad184/MMPlaceHolder
+
 #UITableViewCell支持滑动显示更多操作按钮的
 1.https://github.com/JonasGessner/JGScrollableTableViewCell
 

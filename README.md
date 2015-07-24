@@ -16,6 +16,9 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#带动画效果的UIPagerControl
+1.https://github.com/KittenYang/KYAnimatedPageControl
+
 #非常不错的一个库，显示控件的PlaceHolder或者是UIView的大小
 1.https://github.com/adad184/MMPlaceHolder
 
@@ -27,6 +30,7 @@ IOS学习资源整理，不定期的更新
 
 #IOS中不错的菜单
 1.https://github.com/12207480/DOPDropDownMenu-Enhanced  高仿美团下拉菜单-优化版
+2.https://github.com/KittenYang/KYGooeyMenu  带黏贴效果的菜单
 
 #不错的动画效果库
 1.https://github.com/ArtFeel/AFViewShaker  左右震动

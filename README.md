@@ -16,6 +16,9 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/CocoaPods/CocoaPods
 2.https://github.com/Carthage/Carthage 
 
+#IOS中百分比布局库，自动布局可以goodbye了
+1.https://github.com/jhurray/EZLayout
+
 #带动画效果的UIPagerControl
 1.https://github.com/KittenYang/KYAnimatedPageControl
 

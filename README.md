@@ -107,4 +107,7 @@ IOS学习资源整理，不定期的更新
 #UIWebView进度条
 1.https://github.com/ninjinkun/NJKWebViewProgress  非常不错的UIWebView进度条
 
+#UIWebView控件
+1.https://github.com/TransitApp/SVWebViewController  非常不错，功能强大
+
 

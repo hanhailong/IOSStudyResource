@@ -112,4 +112,7 @@ IOS学习资源整理，不定期的更新
 #UIWebView控件
 1.https://github.com/TransitApp/SVWebViewController  非常不错，功能强大
 
+#不错的卡片切换效果
+1.https://github.com/cwRichardKim/TinderSimpleSwipeCards
+
 

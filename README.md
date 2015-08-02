@@ -21,6 +21,7 @@ IOS学习资源整理，不定期的更新
 
 #带动画效果的UIPagerControl
 1.https://github.com/KittenYang/KYAnimatedPageControl
+2.https://github.com/Spaceman-Labs/SMPageControl
 
 #非常不错的一个库，显示控件的PlaceHolder或者是UIView的大小
 1.https://github.com/adad184/MMPlaceHolder

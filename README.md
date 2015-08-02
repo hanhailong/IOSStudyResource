@@ -28,6 +28,7 @@ IOS学习资源整理，不定期的更新
 #UITableViewCell支持滑动显示更多操作按钮的
 1.https://github.com/JonasGessner/JGScrollableTableViewCell
 2.https://github.com/MortimerGoro/MGSwipeTableCell 非常强大的控件
+3.https://github.com/CEWendel/SWTableViewCell 这个用的最多的一个
 
 #IOS非常漂亮的做引导页滚动视图
 1.https://github.com/IFTTT/JazzHands  

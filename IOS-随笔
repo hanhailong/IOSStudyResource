@@ -1,0 +1,15 @@
+1.  IOS绘制实心圆
+/**
+ *  画实心圆
+ *
+ *  @param ctx    上下文
+ *  @param point  圆心
+ *  @param radius 半径
+ *  @param color  填充颜色
+ */
+- (void)drawSolidCycle:(CGContextRef)ctx withCenter:(CGPoint)point withRadius:(CGFloat)radius withColor:(UIColor *)color{
+    CGContextSetFillColorWithColor(ctx, color.CGColor);
+    CGRect rect = CGRectMake(point.x - radius, point.y - radius, 2*radius, 2*radius);
+    CGContextFillEllipseInRect(ctx, rect);
+    CGContextFillPath(ctx);
+}

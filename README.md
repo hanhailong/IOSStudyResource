@@ -117,4 +117,13 @@ IOS学习资源整理，不定期的更新
 #不错的卡片切换效果
 1.https://github.com/cwRichardKim/TinderSimpleSwipeCards
 
+#UIAlertView和UIActionSheet
+1.https://github.com/steipete/PSTAlertController  包装了IOS8的UIalertcontroller，并兼容到ios7
+
+#面向切面编程
+1.https://github.com/steipete/Aspects   一个简单、方便的面向切面编程的库
+
+#支持进度下载
+1.https://github.com/steipete/AFDownloadRequestOperation  封装了AFNetworking，带有下载进度
+
 

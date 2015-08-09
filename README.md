@@ -9,7 +9,8 @@ IOS学习资源整理，不定期的更新
 #Xcode中不错的插件
 1.https://github.com/limejelly/Backlight-for-XCode  高亮当前正在编辑的一行
 2.https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin 强大的模糊匹配输入 让你写代码的时候再也不用费脑子去记住名字那么长的对象或者函数名了 好用到让你想哭
-3.
+3.https://github.com/trawor/XToDo 非常不错的展示TODO、FIXME的插件，国人开发
+4.https://github.com/macoscope/CodePilot  command+shift+x，xcode自带的是command+shift+o  快速查找类、变量文件的插件
 
 
 #IOS第三库依赖管理，类似Java中的maven，Android中的Gradle

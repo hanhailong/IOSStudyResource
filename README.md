@@ -5,6 +5,7 @@ IOS学习资源整理，不定期的更新
 1.https://github.com/JakeLin/SwiftWeather  一天swift版本的天气项目
 2.https://github.com/xushao1990/XTNews  仿网易新闻的app，里面介绍了一些比较好的库
 3.https://github.com/12207480/KnowingLife  基于天气，查询，团购，新闻类查询应用
+4.https://github.com/XVXVXXX/DoubanFM 第三方的客户端-豆瓣FM
 
 #Xcode中不错的插件
 1.https://github.com/limejelly/Backlight-for-XCode  高亮当前正在编辑的一行

@@ -127,4 +127,7 @@ IOS学习资源整理，不定期的更新
 #支持进度下载
 1.https://github.com/steipete/AFDownloadRequestOperation  封装了AFNetworking，带有下载进度
 
+#UIWebView和JS交互库
+1.https://github.com/marcuswestin/WebViewJavascriptBridge
+
 

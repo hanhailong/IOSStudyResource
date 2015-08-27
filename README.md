@@ -130,4 +130,7 @@ IOS学习资源整理，不定期的更新
 #UIWebView和JS交互库
 1.https://github.com/marcuswestin/WebViewJavascriptBridge
 
+#不从的UIScrollView、UITableView头部视图视差效果
+1.https://github.com/apping/APParallaxHeader
+
 

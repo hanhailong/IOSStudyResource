@@ -106,6 +106,8 @@ IOS学习资源整理，不定期的更新
 #IOS短视频录制库
 1.https://github.com/rFlex/SCRecorder
 
+![image](https://github.com/rFlex/SCRecorder/raw/master/filters.gif)
+
 #强大的日志log框架
 1.https://github.com/CocoaLumberjack/CocoaLumberjack
 

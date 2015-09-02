@@ -1,6 +1,9 @@
 # IOSStudyResource
 IOS学习资源整理，不定期的更新
 
+#IOS上开源库集合整理
+1.https://github.com/vsouza/awesome-ios 里面有各种各样的开源库，涉及到IOS的各个方面
+
 #完整的IOS项目，具有很大的教学意义
 1.https://github.com/JakeLin/SwiftWeather  一天swift版本的天气项目
 2.https://github.com/xushao1990/XTNews  仿网易新闻的app，里面介绍了一些比较好的库
@@ -99,6 +102,9 @@ IOS学习资源整理，不定期的更新
 
 #IOS在线音频播放器
 1.https://github.com/muhku/FreeStreamer FreeStreamer是适用于iOS和OS X的音频播放引擎, 专门为播放音频流而设计。该引擎示范UI简单，效率高，占用内存少，用C++写成
+
+#IOS短视频录制库
+1.https://github.com/rFlex/SCRecorder
 
 #强大的日志log框架
 1.https://github.com/CocoaLumberjack/CocoaLumberjack
